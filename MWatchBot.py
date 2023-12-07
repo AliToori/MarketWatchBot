@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
     *******************************************************************************************
-    DiscordBot.
+    MarketWatchBot.
     Author: Ali Toori, Python Developer [Bot Builder]
-    LinkedIn: https://www.linkedin.com/in/alitoori/
+    Website: https://boteaz.com
+    YouTube: https://youtube.com/@AliToori
     *******************************************************************************************
 """
 import concurrent.futures

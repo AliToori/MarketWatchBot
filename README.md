@@ -1,4 +1,4 @@
-# MarketWatchBot: Market Watch Auomation Bot
+# MarketWatchBot: Market Watch Automation Bot
 
 *******************************************************************************************
 
